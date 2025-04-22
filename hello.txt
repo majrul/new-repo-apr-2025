@@ -1,4 +1,5 @@
 Hello Everyone!
 This line added by Dev1
+This line added by Dev2
 We are learning Git!
 Git is very powerful!
